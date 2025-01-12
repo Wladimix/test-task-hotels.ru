@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "task-1": "tsc && node declension_of_word_computer.js",
+    "task-2": "tsc && node сommon_divisors_of_numbers.js",
+    "task-3": "tsc && node prime_numbers_from_the_range.js",
+    "task-4": "tsc && node multiplication_table.js"
+  },
+  "dependencies": {
+    "typescript": "^5.7.3"
+  }
+}
