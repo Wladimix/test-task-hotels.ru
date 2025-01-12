@@ -2,22 +2,38 @@
 
 ## Задачи по программированию
 
-Запуск первой задачи (склонение слова компьютер):
+Код первой задачи (склонение слова компьютер):
+
+https://github.com/Wladimix/test-task-hotels.ru/blob/main/declension_of_word_computer.ts
+
+Запуск первой задачи:
 ```bash
 npm run task-1
 ```
 
-Запуск второй задачи (общие делители чисел):
+Код второй задачи (общие делители чисел):
+
+https://github.com/Wladimix/test-task-hotels.ru/blob/main/сommon_divisors_of_numbers.ts
+
+Запуск второй задачи:
 ```bash
 npm run task-2
 ```
 
-Запуск третьей задачи (простые числа из диапазона):
+Код третьей задачи (простые числа из диапазона):
+
+https://github.com/Wladimix/test-task-hotels.ru/blob/main/prime_numbers_from_the_range.ts
+
+Запуск третьей задачи:
 ```bash
 npm run task-3
 ```
 
-Запуск четвёртой задачи (таблица умножения):
+Код четвёртой задачи (таблица умножения):
+
+https://github.com/Wladimix/test-task-hotels.ru/blob/main/multiplication_table.ts
+
+Запуск четвёртой задачи:
 ```bash
 npm run task-4
 ```
